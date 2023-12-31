@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizizng: border-box;
+    overflow-x: hidden !important,
+}   
+
+body{
+    background-color: #f6f8fa;
+    overflow-x: hidden !important;
+    width: 100%;
+}
