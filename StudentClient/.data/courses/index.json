@@ -1,0 +1,446 @@
+{
+    "btech": {
+        "cse": {
+            "sem1": {
+                "CSE1002": "Discrete Mathematics",
+                    "MTH1101": "Calculus A",
+                        "CSE1001": "Introduction to Computer Programming",
+                            "PHY1001": "University Physics : Mechanics",
+                                "HSS1010": "Communication and Critical Thinking"
+            },
+            "sem2": {
+                "CSE2001" : "Data Structure and Algorithm",
+                    "CSE1004" : "Introductory Graph Theory",
+                        "MTH2101" : "Calculus B",
+                            "PHY2001" : "University Physics: Electricity and Magnetism",
+                                "HSS1021" : "Principle of Microeconomics"
+            },
+            "sem3": {
+                "CSE2141": "Computer Science Workshop1 ",
+                    "EET1211": "Digital Logic Design",
+                        "CSE3131": "Algorithm Design 1",
+                            "MTH2002": "Probability and Statistics",
+                                "HSS2021": "Principle of Macroeconomics"
+            },
+            "sem4": {
+                "CSE3141": "Computer Science Workshop 2",
+                    "EET2211": "Computer Organisation and Architecture",
+                        "CSE4131": "Algorithm Design 2",
+                            "MTH3003": "Applied Linear Algebra",
+                                "GEN1972": "Universal Human Values"
+            },
+            "sem5": {
+                "CSE3541": "Operating Systems Workshop",
+                    "CSE4049": "Design of Operating System",
+                        "CSE3034": "Computer Networking",
+                            "CSE3142": "Programming in Python",
+                                "CSE3731": "Introduction to the Theory of Computation",
+                                    "CSE2733": "Intermediate Discrete Mathematics"
+            },
+            "sem6": {
+                "CSE4541": "Computer Networking Workshop",
+                    "CSE3151": "Introduction to Databases",
+                        "CSE3035": "Cryptography and Network Security",
+                            "CSE3054": "Introduction to Data Science using Python",
+                                "CSE4732": "Study and Design of Compilers",
+                                    "CSE3734": "Introduction to Blockchain"
+            },
+            "sem7": {
+                "CSE4110": "Internet of Things Projects using Python",
+                    "HSS3011": "Topics in Environmental Studies"
+            },
+            "sem8": {
+                "CSE4101": "Senior Design Project"
+            }
+        },
+        "csit": {
+            "sem1": {
+                "CSE1002": "Discrete Mathematics",
+                    "MTH1101": "Calculus A",
+                        "CSE1001": "Introduction to Computer Programming",
+                            "PHY1001": "University Physics : Mechanics",
+                                "HSS1010": "Communication and Critical Thinking"
+            },
+            "sem2": {
+                "CSE2001" : "Data Structure and Algorithm",
+                    "CSE1004" : "Introductory Graph Theory",
+                        "MTH2101" : "Calculus B",
+                            "PHY2001" : "University Physics: Electricity and Magnetism",
+                                "HSS1021" : "Principle of Microeconomics"
+            },
+            "sem3": {
+                "CSE2141": "Computer Science Workshop1 ",
+                    "EET1211": "Digital Logic Design",
+                        "CSE3131": "Algorithm Design 1",
+                            "MTH2002": "Probability and Statistics",
+                                "HSS2021": "Principle of Macroeconomics"
+            },
+            "sem4": {
+                "CSE3141": "Computer Science Workshop 2",
+                    "EET2211": "Computer Organisation and Architecture",
+                        "CSE4131": "Algorithm Design 2",
+                            "MTH3003": "Applied Linear Algebra",
+                                "GEN1972": "Universal Human Values"
+            },
+            "sem5": {
+                "CSE4947": "Web Technology Workshop 1",
+                    "CSE3541": "Operating Systems Workshop",
+                        "CSE4049": "Design of Operating System",
+                            "CSE3034": "Computer Networking",
+                                "CSE3731": "Introduction to the Theory of Computation",
+                                    "CSE2733": "Intermediate Discrete Mathematics",
+                                        "CSE3942": "Problem Solving and Problem Design using C"
+            },
+            "sem6": {
+                "CSE4948": "Web Technology Workshop 2",
+                    "CSE3151": "Introduction to Databases",
+                        "CSE3035": "Cryptography and Network Security",
+                            "CSE4732": "Study and Design of Compilers",
+                                "CSE3734": "Introduction to Blockchain",
+                                    "CSE4937": "Web Application Development"
+            },
+            "sem7": {
+                "CSE4103": "Web Development Project",
+                    "HSS3011": "Topics in Environmental Studies"
+            },
+            "sem8": {
+                "CSE4101": "Senior Design Project"
+            }
+        },
+        "ce": {
+            "sem1" : {
+                "CVL 1013": "Civil Engineering Workshop Practice",
+                    "MTH1101": "Calculus A",
+                        "CSE1001": "Introduction to Computer Programming",
+                            "PHY1001": "University Physics : Mechanics",
+                                "HSS1010": "Communication and Critical Thinking"
+            },
+            "sem2": {
+                "CSE2001" : "Data Structure and Algorithm",
+                    "MTH2101" : "Calculus B",
+                        "PHY2001" : "University Physics: Electricity and Magnetism",
+                            "HSS1021" : "Principle of Microeconomics",
+                                "CVL1114" : "Computer Aided Drawing for Civil Engineering"
+            },
+            "sem3": {
+                "CVL1011": "Engineering Mechanics",
+                    "CVL2013": "Materials. Materials Testing and Evaluation",
+                        "MTH2002": "Probability and Statistics",
+                            "HSS2021": "Principle of Macroeconomics",
+                                "MTH3004": "Differential Equations"
+            },
+            "sem4" : {
+                "CVL2211": "Introductory Solid Mechanics",
+                    "CVL1209": "Surveying and Geomatics Engineering",
+                        "GEN1972": "Universal Human Values",
+                            "CVL1115": "Computer Aided Analysis for Civil Engineering",
+                                "MTH3009": "Partial Differential Equation"
+            },
+            "sem5": {
+                "CVL3011": "Structural Analysis",
+                    "CVL3171": "Transportation Engineering Design",
+                        "CVL3231": "Introduction to Geotechnical Engineering",
+                            "MEL3211": "Fluid Mechanics",
+                                "MTH4002": "Numerical Methods"
+            },
+            "sem6": {
+                "CVL3241": "Water Resource Engineering",
+                    "CVL4121": "Reinforced COncrete Design",
+                        "CVL4232": "Foundation Engineering",
+                            "CVL3162": "Construction Management Fundamentals",
+                                "CVL3054": "Principle of Environmental Engineering"
+            },
+            "sem7": {
+                "CVL4123": "Steel Structures Design Project",
+                    "HSS3011": "Topics in Environmental Studies"
+            },
+            "sem8": {
+                "CVL4101": "Senior Design Project"
+            }
+        },
+        "mel": {
+            "sem1": {
+                "MEL1104": "Engineering Drawing and Workshop Practice",
+                    "MTH1101": "Calculus A",
+                        "CSE1001": "Introduction to Computer Programming",
+                            "PHY1001": "University Physics : Mechanics",
+                                "HSS1010": "Communication and Critical Thinking"
+            },
+            "sem2": {
+                "CSE2001" : "Data Structure and Algorithm",
+                    "MTH2101" : "Calculus B",
+                        "PHY2001" : "University Physics: Electricity and Magnetism",
+                            "HSS1021" : "Principle of Microeconomics",
+                                "MEL1105" : "Computer Aided Drawing and Manufacturing"
+            },
+            "sem3": {
+                "MTH2002": "Probability and Statistics",
+                    "MTH3004": "Differential Equations",
+                        "MTH3003": "Applied Linear Algebra",
+                            "MEL2011": "Introductory Thermodynamics",
+                                "MEL1012": "Engineering Mechanics: Statistics and Dynamics"
+            },
+            "sem4": {
+                "GEN1972": "Universal Human Values",
+                    "MTH4002": "Numerical Methods",
+                        "MEL4013": "Applied Thermodynamics",
+                            "MEL2021": "Introductory Solid Mechanics",
+                                "MEL4022": "Complex Variables and Vibration Theory"
+            },
+            "sem5": {
+                "MEL3031": "Design and Dynamics 1",
+                    "MEL4026": "Advanced Solid Mechancis",
+                        "MEL3211": "Fluid Mechanics",
+                            "MEL3043": "Mechanical Engineering Materials",
+                                "EET1100": "Electrical and Electronics Workshop"
+            },
+            "sem6": {
+                "EET4109": "Embeeded Systems Project using Ardunio",
+                    "MEL3212": "Heat Transfer",
+                        "MEL3032": "Design and Dynamics 2",
+                            "MEL3101": "Integrated Design and Manufacturing Project",
+                                "MLE4038": "Operations Research and Production Engineering"
+            },
+            "sem7": {
+                "HSS3011": "Topics in Environmental Studies",
+                    "HSS2021": "Principle of Macroeconomics"
+            },
+            "sem8": {
+                "MEL4101": "Senior Design Project"
+            }
+        },
+        "ece": {
+            "sem1": {
+                "EET1100": "Electrical and Electronics Workshop",
+                    "MTH1101": "Calculus A",
+                        "CSE1001": "Introduction to Computer Programming",
+                            "PHY1001": "University Physics : Mechanics",
+                                "HSS1010": "Communication and Critical Thinking"
+            },
+            "sem2": {
+                "CSE2001" : "Data Structure and Algorithm",
+                    "MTH2101" : "Calculus B",
+                        "PHY2001" : "University Physics: Electricity and Magnetism",
+                            "HSS1021" : "Principle of Microeconomics",
+                                "EET1021 ": "Logic Design"
+            },
+            "sem3": {
+                "PHY3009": "University Physics :Semiconductor Physics",
+                    "HSS1021": "Principle of Microeconomics",
+                        "MTH3004": "Differential Equations",
+                            "MTH4002": "Numerical Methods",
+                                "EET1102": "Introduction to Electrical and Electronic Circuits"
+            },
+            "sem4": {
+                "MTH2002": "Probability and Statistics",
+                    "MTH3003": "Applied Linear Algebra",
+                        "EET2131": "Microelectronic Devices and Circuits",
+                            "EET2111": "Circuit Theory",
+                                "MTH4001": "Complex Analysis",
+                                    "GEN1972": "Universal Human Values"
+            },
+            "sem5": {
+                "EET2051": "Signals and Systems",
+                    "EET3131": "Design with Analog Integrated Circuits",
+                        "EET3041": "Electromagnetic Waves I",
+                            "EET3061": "Communication Systems I",
+                                "EET2211": "Computer Organisation and Architecture"
+            },
+            "sem6": {
+                "EET3051": "Digital Signal Processing",
+                    "EET3062": "Communication Systems II",
+                        "EET4109": "Embeeded Systems Project using Ardunio",
+                            "EET3071": "Control Systems",
+                                "EET4041": "Electromagnetic Waves II",
+                                    "EET3001": "Electrical and Electronic Measurments"
+            },
+            "sem7": {
+                "EET4110": "Internet of Things Project using Raspberry Pi",
+                    "EET4564": "Elements of Information Theory",
+                        "HSS3011": "Topics in Environmental Studies"
+            },
+            "sem8": {
+                "EET4101": "Senior Design Project"
+            }
+        },
+        "ee": {
+            "sem1": {
+                "EET1100": "Electrical and Electronics Workshop",
+                    "MTH1101": "Calculus A",
+                        "CSE1001": "Introduction to Computer Programming",
+                            "PHY1001": "University Physics : Mechanics",
+                                "HSS1010": "Communication and Critical Thinking"
+            },
+            "sem2": {
+                "CSE2001" : "Data Structure and Algorithm",
+                    "MTH2101" : "Calculus B",
+                        "PHY2001" : "University Physics: Electricity and Magnetism",
+                            "HSS1021" : "Principle of Microeconomics",
+                                "EET1021 ": "Logic Design"
+            },
+            "sem3": {
+                "PHY3009": "University Physics :Semiconductor Physics",
+                    "HSS1021": "Principle of Microeconomics",
+                        "MTH3004": "Differential Equations",
+                            "MTH4002": "Numerical Methods",
+                                "EET1102": "Introduction to Electrical and Electronic Circuits"
+            },
+            "sem4": {
+                "MTH2002": "Probability and Statistics",
+                    "MTH3003": "Applied Linear Algebra",
+                        "EET2131": "Microelectronic Devices and Circuits",
+                            "EET2111": "Circuit Theory",
+                                "MTH4001": "Complex Analysis",
+                                    "GEN1972": "Universal Human Values"
+            },
+            "sem5": {
+                "EET2051": "Signals and Systems",
+                    "EET3071": "Control Systems",
+                        "EET3081": "Electrical Machines 1",
+                            "EET3001": "Electrical and Electronic Measurments",
+                                "EET3043": "Electromagnetic Field Theory"
+            },
+            "sem6": {
+                "EET3083": "Power System Analysis and Design 1",
+                    "EET3113": "Power Electronics, Devices and Circuits",
+                        "EET3082": "Electrical Machines 2",
+                            "EET4089": "Power System Protection: Analysis and Design ",
+                                "EET4109": "Embeeded Systems Project using Ardunio"
+            },
+            "sem7": {
+                "EET3084": "Power System Analysis and Design 2",
+                    "HSS3011": "Topics in Environmental Studies"
+            },
+            "sem8": {
+                "EET4101": "Senior Design Project"
+            }
+        }
+    },
+    "mtech" : {
+        "cse": {
+            "sem1": {
+                "MA501T": "Mathematical Foundation for Computer Science",
+                    "CS502T": "Advanced Computer Architecture",
+                        "CS501T": "Advanced Design and Analysis of Algorithm",
+                            "CS501P": "Algorithm Lab",
+                                "CS502P": "Simulation Lab"
+            },
+            "sem2": {
+                "CS507T": "Advanced Operating System",
+                    "CS059T": "Advanced Computer Network",
+                        "CS503P": "Operating System Lab",
+                            "CS504P": "Computational Lab",
+                                "CS505P": "Seminar-I",
+                                    "CS506P": "Comprehensive Viva-I"
+            },
+            "sem3": {
+                "CS601T": "Database Engineering",
+                    "CS601P": "Project-I",
+                        "CS602[": "Seminar-II",
+                            "CS603P": "Comprehensive Viva-II"
+            },
+            "sem4": {
+                "CS604P": "Project-II"
+            }
+        },
+        "ce": {
+            "sem1": {
+                "CE501T": "Advanced Structural Analysis",
+                    "CE502T": "Theory of Elasticity & Plasticity",
+                        "CE503T": "Advanced Design of COncrete Structures",
+                            "CE501P": "COncrete/ Structural Lab",
+                                "CE522P": "Computational Lab"
+            },
+            "sem2": {
+                "CE507T": "Structural Dynamics",
+                    "CE508T": "Theeory of Plates and Shells",
+                        "CE509T": "Advanced Steel Structures",
+                            "CE503P": "Design & Detailing of Structures",
+                                "CE504P": "Mini Design Project",
+                                    "CE505P": "Seminar-I",
+                                        "CE506P": "Comprehensive Viva-Voce-I"
+            },
+            "sem3": {
+                "CE601T": "Finite Element Method",
+                    "CE601P": "Project-I",
+                        "CE603P": "Comprehensive Viva-Voce-II"
+            },
+            "sem4": {
+                "CE604P": "Project-II"
+            }
+        },
+        "EE": {
+            "sem1": {
+                "EE501T": "Power Electronics Converter",
+                    "EE522T": "Control and Operation Of Electronic Power Systems",
+                        "EE523T": "Power Quality",
+                            "EE521P": "Power System Lab",
+                                "EE501P": "Power Electronics Lab"
+            },
+            "sem2": {
+                "EE525T": "Advanced Power Electronics Converter",
+                    "EE521T": "Modeling and Simulation of Power Electronic Devices",
+                        "EE504T": "Electric Drives",
+                            "EE523P": "Power System Simulation Lab",
+                                "EE504P": "Drives Lab",
+                                    "EE525P": "Seminar-I",
+                                        "EE526{": "Comprehensive Viva-I"
+            },
+            "sem3": {
+                "EE601T": "HVDC Power Transmission and FACTS",
+                    "EE621P": "Project-I",
+                        "EE623P": "Comprehensive Viva-II"
+            },
+            "sem4": {
+                "EE624P": "Project-II"
+            }
+        },
+        "ECE": {
+            "sem1": {
+                "EC561T": "Department Core-I",
+                    "EC564T": "Department Core-II",
+                        "EC562T": "Department Core-III",
+                            "EC561P": "Core Lab-I"
+            },
+            "sem2": {
+                "EC563T": "Department Core-IV",
+                    "ECG5GT": "Department Core-V",
+                        "EC563P": "Core Lab-I"
+            },
+            "sem3": {
+                "EC661T": "Department Core-VI",
+                    "EC661P": "Project-I",
+                        "EC662P": "Seminar-II",
+                            "EC663P": "Comprehensive Viva Voce-II"
+            },
+            "sem4": {
+                "EC664P": "Project and Dessertation"
+            }
+        },
+        "mech": {
+            "sem1": {
+                "ME501T": "Advanced Fluid Mechancis",
+                    "ME502T": "Advanced Engineering Thermodynamics",
+                        "ME503T": "Conduction and Radiation Heat Transfer",
+                            "ME501P": "Experimental Methods in Thermal Engineering"
+            },
+            "sem2": {
+                "ME508T": "Computational Fluid Dynamics and Heat Transfer",
+                    "ME509T": "Convective Heat and Mass Transfer",
+                        "ME503P": "Computational Fluid Dynamics Lab",
+                            "ME504P": "IC Engine & Renewable Energy Lab",
+                                "ME505P": "Seminar-I",
+                                    "ME506P": "Comprehensive Viva-I"
+            },
+            "sem3": {
+                "ME601T": "Heat Exchanger Analysis & Design",
+                    "ME601P": "Project-I",
+                        "ME602P": "Seminar-II",
+                            "ME603P": "Comprehensive Viva Voce-II"
+            },
+            "sem4": {
+                "ME604P": "Project-II"
+            }
+        }
+    }
+}
